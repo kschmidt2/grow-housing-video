@@ -32,8 +32,8 @@ $breakpoint-lg: 717px;
   background-image:
     url(https://fm-static.cnbc.com/awsmedia/chart/2019/6/10/grow_leaves.1562793463706.png);
   background-position: bottom right;
-  margin-bottom: 20px;
   max-width: 640px;
+  margin: 50px auto;
 
   & a {
     border-bottom: 1px solid $green-primary;
